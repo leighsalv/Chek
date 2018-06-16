@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Chek</string>
-    <string name="welcome">Today I will..</string>
+    <string name="welcome">Type Task..</string>
     <string name="add_btn">Add</string>
 </resources>

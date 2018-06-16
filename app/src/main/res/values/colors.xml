@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorBackground">#d1dfe2</color>
-    <color name="colorPrimary">#cadfe7</color>
+    <!--Used for Title Bar-->
+    <color name="colorPrimary">#9CC7FF</color>
     <color name="colorPrimaryDark">#000000</color>
-    <color name="colorAccent">#ffffff</color>
+    <color name="colorAccent">#9CC7FF</color> <!--cursor color-->
+
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#9CC7FF</color>
+    <color name="black">#000000</color>
+    <color name="darkGray">#FF4E4E4E</color>
 </resources>
